@@ -1,0 +1,7 @@
+name: EndermanLimiter
+version: '${project.version}'
+main: me.grovre.endermanlimiter.EndermanLimiter
+api-version: 1.18
+authors: [ PoptartFromPluto ]
+description: Lets you change the amount of enderman that spawn in the end world
+website: https://github.com/grovre
